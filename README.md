@@ -95,3 +95,19 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Setup ambiente React Native (Windows, Android):
+https://reactnative.dev/docs/set-up-your-environment
+
+Installazione di JDK: 
+https://download.oracle.com/java/19/archive/jdk-19.0.1_windows-x64_bin.exe.
+
+GitHub repo:
+https://github.com/SunlightKnight/BigBookApp/tree/dev
+
+Per scaricare il progetto e, successivamente, essere in grado di committare le modifiche, consiglio di utilizzare SourceTree (https://www.sourcetreeapp.com/download-archives). Una volta aperto è sufficiente premere "New..." e poi "Clone from URL". Il progetto verrà scaricato e, una volta aperta la vista successiva sarà necessario fare un fetch da "origin", sotto "Remotes". Questo renderà disponibili tutti i branch del progetto, tra cui "dev", che è quello su cui avvengono ed avverranno gli sviluppi. A quel punto, è sufficiente premere sul branch che interessa con il tasto destro del mouse e selezionare "Checkout".
+
+API Documentation:
+https://bigbookapi.com/docs/
